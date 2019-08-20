@@ -1,4 +1,4 @@
-def current_age_for_birth_year(year)
-  return 2019 - year
+def current_age_for_birth_year(birth_year)
+  return 2019 - birth_year
 
 end
